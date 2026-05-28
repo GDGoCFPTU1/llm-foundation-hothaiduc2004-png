@@ -46,6 +46,7 @@
   3. Bấm vào nút **"Get API key"** (ở menu bên trái hoặc góc trên).
   4. Chọn **"Create API key"** và tạo khóa cho dự án mới hoặc dự án hiện có.
   5. Sao chép API key đã tạo (nó sẽ có dạng bắt đầu bằng `AIzaSy...`).
+  [REDACTED_GEMINI_KEY]
 
 * **OpenAI API Key (OPENAI_API_KEY):**
   1. Truy cập [OpenAI API Keys Platform](https://platform.openai.com/api-keys).
@@ -55,6 +56,7 @@
   5. Sao chép API key đã tạo (nó sẽ có dạng bắt đầu bằng `sk-proj-...`).
   > [!WARNING]
   > Key OpenAI chỉ hiển thị duy nhất **một lần** ngay khi tạo. Hãy lưu trữ key an toàn.
+  [REDACTED_OPENAI_KEY]
 
 ---
 
